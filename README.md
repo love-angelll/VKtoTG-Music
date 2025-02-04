@@ -62,7 +62,7 @@
 
 ## Автор 
 
-[![GitHub](https://img.shields.io/badge/GitHub-love--angelll?style=plastic&logo=github)](https://github.com/love-angelll)
+Иван Фрунза — [![GitHub](https://img.shields.io/badge/GitHub-love--angelll?style=plastic&logo=github)](https://github.com/love-angelll)
 
 <!-- 
 Разбор кода:
