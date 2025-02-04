@@ -58,3 +58,18 @@
 ├── LICENSE            # Условия использования
 ├── README.md          # Краткое описание проекта
 └── INSTALLATION.md    # Полная инструкция по установке и настройке
+```
+
+## Автор 
+
+[![GitHub](https://img.shields.io/badge/GitHub-love--angelll?style=for-the-badge&logo=github)](https://github.com/love-angelll)
+
+<!-- 
+Разбор кода:
+
+https://img.shields.io – сервис для создания значков (badges).
+badge=GitHub-love--angelll-181717 – текст на кнопке.
+style=for-the-badge – стиль кнопки (можно менять на flat, plastic, flat-square).
+logo=github – логотип GitHub.
+Ссылка – ведёт на профиль love-angelll.
+-->
