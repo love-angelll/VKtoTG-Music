@@ -34,7 +34,7 @@
 
 ## Автор 
 
-Иван Фрунза — [![GitHub](https://img.shields.io/badge/GitHub-love--angelll?style=plastic&logo=github)](https://github.com/love-angelll)
+[![GitHub](https://img.shields.io/badge/GitHub-Ivan--Frunza-%2312101C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/love-angelll)
 
 
 
