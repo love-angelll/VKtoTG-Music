@@ -1,6 +1,6 @@
 # Полная инструкция по установке и запуску
 
-Автор: Иван Фрунза
+[![GitHub](https://img.shields.io/badge/GitHub-love--angelll-%2312101C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/love-angelll)
 
 ## Описание
 
