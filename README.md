@@ -1,5 +1,5 @@
 > [!WARNING]
-> Проект находится ещё в разработке ! 
+> ПРОЕКТ НАХОДИТСЯ ЕЩЁ В РАЗРАБОТКЕ ! 
 
 <img src="https://github.com/love-angelll/VKtoTG-Music/blob/main/Images/banner.png" alt="Банер" width="100%">
 
