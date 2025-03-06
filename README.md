@@ -37,35 +37,6 @@
 
 ---
 
-## Древо проекта
-
-```plaintext
-main
-├────────────────
-├── LICENSE            # Условия использования
-├── README.md          # Краткое описание проекта
-└── INSTALLATION.md    # Полная инструкция по установке и настройке
-
-main/Code
-├────────────────
-├── main.py            # Основной код бота 
-├──
-├──
-├───────── main/Code/papka1
-├─────────────├──────
-├─────────────├──────
-└─────────────└───────
-
-main/Images
-├────────────────
-├── banner.png         # Фото банера в «README.md»
-├──
-├───────── main/Images/papka1
-├─────────────├──────
-├─────────────├──────
-└─────────────└───────
-```
-
 ## Автор 
 
 Иван Фрунза — [![GitHub](https://img.shields.io/badge/GitHub-love--angelll?style=plastic&logo=github)](https://github.com/love-angelll)
