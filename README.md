@@ -36,7 +36,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ivan--Frunza-%2312101C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/love-angelll)
 
-
+[![Telegram](https://img.shields.io/badge/Telegram-iv__frunza-%2312101C?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iv_frunza)
+[![Instagram](https://img.shields.io/badge/Instagram-iv.frunza-%2312101C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iv.frunza/)
 
 
 
